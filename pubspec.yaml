@@ -30,7 +30,7 @@ flutter:
     - assets/
 
 flutter_app_name:
-  name: "Tabircim"
+  name: "Rüyaci"
 
 flutter_icons:
   android: "logoicon"
