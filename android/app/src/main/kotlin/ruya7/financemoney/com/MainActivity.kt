@@ -1,4 +1,4 @@
-package com.example.tabirdunyasi
+package ruya7.financemoney.com
 
 import io.flutter.embedding.android.FlutterActivity
 
